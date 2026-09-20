@@ -1,0 +1,25 @@
+{
+  "Name": "Zeyla",
+  "Class": "Humain",
+  "Level": 3,
+  "XP": 0,
+  "MaxHP": 120,
+  "CurrentHP": 120,
+  "Inventory": [
+    "Élixir de Lumière",
+    "Élixir de Lumière",
+    "Élixir de Lumière"
+  ],
+  "InventoryLimit": 10,
+  "Gold": 66,
+  "Skills": [
+    "Coup de poing",
+    "Boule de Feu"
+  ],
+  "Equipment": {
+    "Head": "",
+    "Chest": "",
+    "Feet": ""
+  },
+  "InvUpgrades": 0
+}
